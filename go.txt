@@ -1,1 +1,2 @@
-go is shit
+go is shit.
+go is good.
